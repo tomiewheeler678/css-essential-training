@@ -84,7 +84,7 @@ header {
 /* Projects
 ------------------------------------*/
 .projects {
-  background: #F7FFF7;
+  background: #9DA9A0;
 }
 .projects a {
   color: #2F3061;
@@ -109,7 +109,7 @@ header {
 /* Work Experience
 ------------------------------------*/
 .work-experience {
-  background: #A1C6D7;
+  background: #654C4F;
 }
 
 
@@ -130,7 +130,7 @@ header {
 /* Contact Info
 ------------------------------------*/
 footer {
-  background: #343434;
+  background: #B26E63;
   color: #F7FFF7;
 }
 .contact-list {
