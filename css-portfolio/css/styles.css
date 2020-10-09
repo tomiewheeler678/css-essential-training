@@ -1,11 +1,11 @@
 /*
 COLOR PALETTE
 https://coolors.co/f7fff7-343434-2f3061-ffe66d-a1c6d7
-#F7FFF7 - almost white
-#343434 - dark gray - almost black
-#2F3061 - blue dark
-#FFE66D - yellow
-#A1C6D7 - blue light
+#C0CAAD - Laurel Green
+#9DA9A0 - Morning Blue
+#654C4F - Rose Ebony
+#B26E63 - Copper Penny
+#0E3B43 - Midnight Green Eagle Green
 */
 
 
@@ -19,7 +19,7 @@ html {
 }
 
 body {
-  color: #343434;
+  color: #9DA9A0;
   margin: 0;
   padding: 0;
   font-family: 'Montserrat', sans-serif;
